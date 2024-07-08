@@ -1,4 +1,4 @@
-<font size="5">**Welcome to Cloudability Assorted Scripts and Code**</font>
+<font size="5">Welcome to Cloudability Assorted Scripts and Code</font>
 
 **Anomaly Integration**
 - Slack Integration to push anomaly alerts from Cloudability to Slack

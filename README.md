@@ -8,3 +8,6 @@
 
 **View Creator**
 - Script to build Views based on CSV input - using Dimensions, Business Mappings and Tags. 
+
+**Exceed Budget Slack Integration**
+- Script to generate Slack messages when a budget is going to be exceeded. 

@@ -20,11 +20,6 @@
 #    ]
 # }
 # This requires a Workflow to be configured in MS Teams against a channel
-# Go to make.powerautomate.com
-# Select Create
-# Select Automated Cloud Flow
-# 
-
 
 # Configuration
 TEAMS_WORKFLOW_URL="TEAMS HTTP URL"

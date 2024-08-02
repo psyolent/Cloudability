@@ -12,3 +12,6 @@
 
 **Exceed Budget Slack Integration**
 - Script to generate Slack messages when a budget is going to be exceeded. 
+
+**AWS Snapshots > 30 days old**
+- Script to generate a list of AWS snapshots that are greater than 30 days old 
